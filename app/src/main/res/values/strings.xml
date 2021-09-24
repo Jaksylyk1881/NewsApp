@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">News_App</string>
+    <string name="main_title">News</string>
+    <string name="rating">7,4</string>
+    <string name="search">type id</string>
+    <string name="result">result</string>
+    <string name="button">button</string>
+    <string name="news">News</string>
+</resources>
