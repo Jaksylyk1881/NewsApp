@@ -31,7 +31,7 @@ import java.util.List;
 //import static com.example.news_app.utils.NetworkUtils.generalURL;
 //import static com.example.news_app.utils.NetworkUtils.getResponseFromURL;
 //
-
+//asdasfasdsafsdfwafsdfa
 public class MainActivity extends AppCompatActivity {
 
     private  static final String JSON_URL = "https://api.themoviedb.org/3/movie/popular?api_key=4e1808f48673a589b0697bd4184f1edc";
